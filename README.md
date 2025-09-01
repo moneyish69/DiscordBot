@@ -19,7 +19,6 @@
 - [x] Easy to use
 - [x] Customizable
 - [x] And much more
-- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=860390761307439114&permissions=8&scope=bot%20applications.commands)
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px">》Screenshots
 
 ## <img src="https://cdn.discordapp.com/emojis/1009754836314628146.gif" width="25px" height="25px">》Requirements
@@ -36,7 +35,7 @@
 ## <img src="https://cdn.discordapp.com/emojis/814216203466965052.png" width="25px" height="25px">》Installation Guide
 
 ### <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="15px" height="15px"> Installing via [NPM](https://www.npmjs.com/)
-### After cloning Fill all requirement in `.env` **(rename `.env.example` to `.env`)**, then run
+
 
 ```bash
 npm install
