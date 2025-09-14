@@ -1,7 +1,4 @@
   <h3 align="center">Discord-Bot</h3>
-
-  <p align="center">
-    Discord-bot is an updated version of <a href="https://github.com/DotwoodMedia/Dbot">Dbot</a>, an advanced Discord multipurpose bot containing more than 400 commands.<br> It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.
   
 <!-- ABOUT THE PROJECT -->
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px">》Feature
